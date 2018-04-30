@@ -1,16 +1,40 @@
-package it.cle.resettami.dto;
-
 import java.lang.reflect.Method;
 
 public class Genera {
 
 	public static void main(String[] args) {
+		
+		Genera genera = new Genera();
 
+		genera.generaGetDojoSelect("tipoRuoloMedico","lvRuolo","idTipoStatoAttivita","idTipoStatoAttivita");
 	}
 	
-	public void generaGetDojoSelect() {
+	/**
+	 * Scaffolding per riempimento select dojo grid.
+	 * 
+	 * @param nomeSelect
+	 * @param nomeLiveVariable
+	 * @param idDTO
+	 * @param idEntity
+	 */
+	public void generaGetDojoSelect(String nomeSelect,String nomeLiveVariable,String idDTO,String idEntity) {
 		
+		StringBuilder sb = new StringBuilder();
 		
+
+		sb.append("if (" + idDTO + " > 0) {");
+            sb.append("for (i = 0; i <= this." + nomeLiveVariable + ".getCount() - 1; i++) {");
+                sb.append("item = this." + nomeSelect + ".dataSet.getItem(i);");
+                sb.append("idOfItem = this." + nomeSelect + ".dataSet.getItem(i).getData()." + idDTO + ";");
+
+                sb.append("if (" + idDTO + " == idOfItem) {");
+                    sb.append("this." + nomeSelect + ".setDataValue(item);");
+                sb.append("}");
+            sb.append("}");
+            
+        sb.append("}");
+        
+        System.out.println(sb.toString());
 	}
 
 	/**
@@ -18,7 +42,7 @@ public class Genera {
 	 */
 	public void generaSetByClassName() {
 
-		Method[] methods = MedicoDTO.class.getMethods();
+		Method[] methods = Genera.class.getMethods();
 
 		for (int i = 0; i < methods.length; i++) {
 
