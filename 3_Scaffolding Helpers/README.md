@@ -1,1 +1,0 @@
-A list of java classes that help me in software development projects.
