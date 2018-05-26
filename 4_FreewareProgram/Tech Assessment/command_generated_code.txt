@@ -1,1 +1,0 @@
-java -jar swagger-codegen-cli-2.2.1.jar generate -i C:\Users\Admin\Downloads\swagger.yaml -l nodejs-server
