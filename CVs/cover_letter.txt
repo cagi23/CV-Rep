@@ -1,0 +1,16 @@
+I'm a passionate software developer with 13 years' experience working with Java/J2EE related technologies. I also wrote a lot 
+of Javascript/Ajax code. I'm currently working remote with my company for developing a SaaS application for an helthcare system.
+In my freetime I'm working on my personal portfolio with freeware software with the following stack:
+Heroku,Codeship,Node.js,Mysql/Mongo DB for the Backend instead for the Frontend I choice Angular and React 
+
+This is my github profile: https://github.com/carloDev
+and this is my portfolio: http://carlo-giordano-portfolio.surge.sh/ (work in progress...) 
+
+I'm a goal oriented person who loves learn new technologies/methodologies. I'm also inclined to solve complex problem.
+
+------------------------------------------------------------------------------------------------------------------------
+Test-Drive high-quality, self-documenting code using Pair Programming Practices, Agile Principles, Clean Code Techniques, SOLID and other software design principles. Refactor older code as you work on it to reduce the Team’s overall value capacity backlog. Create intuitive user interfaces through front- and back-end design. Create and maintain minimal documentation. Necessary Skills:
+
+Strong OOP design and coding skills. Experienced in full-stack development. Excellent communication skills with a passion for face-to-face over written communication. Excel in a fast-paced, results-oriented environment. Thrive in a highly cooperative work setting. Preferred Qualifications:
+
+Familiarity/experience working in Agile, Scrum, Kanban and/or Lean software development environments. Experience as an Application Developer with XP practices, particularly Test-Driven Development and Pair Programming. Job Requirements:
