@@ -4,12 +4,17 @@
 **linkedin profile:** https://www.linkedin.com/in/carlo-giordano-5a94045/<br>
 
 ### Software Development Projects
-**Dates:** 01 May 2018 - currently<br>
+**Dates:** 01 May 2018 - 31 May 2018<br>
+**Client's Name:** Infocamere<br>
+**Technologies Used:** JBoss EAP 7.1, Java 8, Maven, Ant, Spring MVC, EJB 3, Oracle, Git<br>
+**My tasks in the Project:** Porting of legacy applications from Java 1.6 and JBoss 5 to Java 1.8 and JBoss EAP 7.1 for the Italian Chamber of Commerce.<br>
+
+**Dates:** 01 May 2018 - 31 May 2018<br>
 **Project's Name:** Tech Assessment<br>
 **Technologies Used:** Node.js, Express, Sequelize, Mysql<br>
 **My tasks in the Project:** Coding the JSON based Rest Services of the application with the Express framerwork.<br>
 
-**Dates:** 23 April 2018 - currently<br>
+**Dates:** 23 April 2018 - 03 September 2018<br>
 **Project's Name:** Cartella Sociale IFEL<br>
 **Technologies Used:** Java 1.6 - Hibernate - Dojo Ajax Toolkit - MySQL - Wavemaker 1.5<br>
 **My tasks in the Project:** Defined UI/UX interaction, coding Javascript based pages, writing DAO classes. Created main web app starting with requirements gathering, designing, developing, refactoring, and code implementation of the logic of the application.<br>
