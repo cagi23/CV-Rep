@@ -4,9 +4,16 @@
 **linkedin profile:** https://www.linkedin.com/in/carlo-giordano-5a94045/<br>
 
 ### Software Development Projects
-**Dates:** 01 May 2018 - 31 May 2018<br>
+**Dates:** 03 September 2018 - Actually<br>
 **Client's Name:** Infocamere<br>
-**Technologies Used:** JBoss EAP 7.1, Java 8, Maven, Ant, Spring MVC, EJB 3, Oracle, Git<br>
+**Technologies Used:** JBoss EAP 7.1, Java 8, Maven, Ant, RestEasy, EJB 3, Oracle, Git, JPA<br>
+**My tasks in the Project:** For the following site: attidepositati.infocamere.it created by Infocamere I have built several Rest
+based services backed by EJB 3.1 and Oracle and exposed with RestEasy. I was responsible to define the services, the DTO for the comunication with the client and the creation of the JPA entities.<br>
+
+
+**Dates:** 03 September 2018 - Actually<br>
+**Client's Name:** Infocamere<br>
+**Technologies Used:** JBoss EAP 7.1, Java 8, Maven, Ant, J2ee, EJB 3, Oracle, Git<br>
 **My tasks in the Project:** Porting of legacy applications from Java 1.6 and JBoss 5 to Java 1.8 and JBoss EAP 7.1 for the Italian Chamber of Commerce.<br>
 
 **Dates:** 01 May 2018 - 31 May 2018<br>
