@@ -4,6 +4,11 @@
 **linkedin profile:** https://www.linkedin.com/in/carlo-giordano-5a94045/<br>
 
 ### Software Development Projects
+**Dates:** 03 October 2018 - Actually<br>
+**Client's Name:** Infocamere<br>
+**Technologies Used:** JBoss EAP 7.1, Java 8, Maven, MongoDB, Jquery, Spring Boot<br>
+**My tasks in the Project:** TO-DO, search, import from GLEIF LEI data.<br>
+
 **Dates:** 03 September 2018 - Actually<br>
 **Client's Name:** Infocamere<br>
 **Technologies Used:** JBoss EAP 7.1, Java 8, Maven, Ant, RestEasy, EJB 3, Oracle, Git, JPA<br>
