@@ -6,10 +6,10 @@
 ### Software Development Projects
 **Dates:** 03 October 2018 - Actually<br>
 **Client's Name:** Infocamere<br>
-**Technologies Used:** JBoss EAP 7.1, Java 8, Maven, MongoDB, Jquery, Spring Boot<br>
-**My tasks in the Project:** TO-DO, search, import from GLEIF LEI data.<br>
+**Technologies Used:** JBoss EAP 7.1, Java 8, Maven, Jquery, Spring Boot, Solr<br>
+**My tasks in the Project:** Define the Solr Collection in order to create Web Ajax functionalities to search GLEIF XML LEI data.<br>
 
-**Dates:** 03 September 2018 - Actually<br>
+**Dates:** 03 September 2018 - 03 October 2018<br>
 **Client's Name:** Infocamere<br>
 **Technologies Used:** JBoss EAP 7.1, Java 8, Maven, Ant, RestEasy, EJB 3, Oracle, Git, JPA<br>
 **My tasks in the Project:** For the following site: attidepositati.infocamere.it created by Infocamere I have built several Rest
@@ -18,8 +18,8 @@ based services backed by EJB 3.1 and Oracle and exposed with RestEasy. I was res
 
 **Dates:** 03 September 2018 - Actually<br>
 **Client's Name:** Infocamere<br>
-**Technologies Used:** JBoss EAP 7.1, Java 8, Maven, Ant, J2ee, EJB 3, Oracle, Git<br>
-**My tasks in the Project:** Porting of legacy applications from Java 1.6 and JBoss 5 to Java 1.8 and JBoss EAP 7.1 for the Italian Chamber of Commerce.<br>
+**Technologies Used:** JBoss EAP 7.1, Java 8, Maven, Ant, J2ee, EJB 3, Oracle, Git, RestEasy<br>
+**My tasks in the Project:** Porting of legacy applications from Java 1.6 and JBoss 5 to Java 1.8 and JBoss EAP 7.1 for the Italian Chamber of Commerce. Also refactoring some EJB legacy code to RestEasy based web service.<br>
 
 **Dates:** 01 May 2018 - 31 May 2018<br>
 **Project's Name:** Tech Assessment<br>
