@@ -7,7 +7,7 @@
 **Dates:** 03 October 2018 - Actually<br>
 **Client's Name:** Infocamere<br>
 **Technologies Used:** JBoss EAP 7.1, Java 8, Maven, Jquery, Spring Boot, Solr<br>
-**My tasks in the Project:** Define the Solr Collection, the Xpath Data Import Handler in order to create Web Ajax autocomplwte functionalities to search GLEIF XML LEI data.<br>
+**My tasks in the Project:** Define the Solr Collection, the Xpath Data Import Handler in order to create Web Ajax autocomplete functionalities to search GLEIF XML LEI data.<br>
 
 **Dates:** 03 September 2018 - 03 October 2018<br>
 **Client's Name:** Infocamere<br>
