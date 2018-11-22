@@ -1,7 +1,8 @@
 **Name:** Carlo Giordano<br>
 **e-mail:** giordano1985@gmail.com<br>
 **date of birth:** 6 January 1985<br>
-**linkedin profile:** https://www.linkedin.com/in/carlo-giordano-5a94045/<br>
+**linkedin:** https://www.linkedin.com/in/carlo-giordano-5a94045/<br>
+**profile:** Solution Architect/Developer<br>
 
 ### Software Development Projects
 **Dates:** 03 October 2018 - Actually<br>
