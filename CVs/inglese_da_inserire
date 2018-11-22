@@ -1,0 +1,64 @@
+KEYWORDS:
+
+Unit testing
+Continuous Integration (CI)
+Web services
+GitHub
+REST
+Agile
+Deployment
+Security
+API
+Scalability
+OOP
+Availability
+Docker
+SOLID
+NoSQL
+Configuration Management (CM)
+Robust
+Tuning
+Algorithm
+Networking
+Design Patterns
+Open Source
+AWS
+Hadoop
+Continuous Deployment (CD)
+TDD
+Microservices
+
+VERBS:
+    develop
+
+    design
+
+    code
+
+    architect
+
+    program
+
+    coded
+
+    redesigned
+
+    developed
+
+    assembled
+
+    engineer
+    
+    EXAMPLE:
+    
+
+    Software Engineer / DevOps (Nov 2016 – Present)
+
+    www.virtualstartup.com - a widely used file-sharing service with millions of page impressions per day. I’m part of the core development team.
+
+        Investigated, designed, and implemented infrastructure migration from EC2 to Kubernetes using Helm.
+        Improved infrastructure transparency and agility of migrations.
+        Fully automated the deployment process, significantly reducing deployment errors and rollbacks.
+        Increased speed of software development life cycle by 40%.
+
+    (Java, Python, Bash, AWS, Kubernetes, Docker, Puppet, Chef, Ansible, Jenkins)
