@@ -2,13 +2,13 @@
 **e-mail:** giordano1985@gmail.com<br>
 **date of birth:** 6 January 1985<br>
 **linkedin:** https://www.linkedin.com/in/carlo-giordano-5a94045/<br>
-**profile:** Solution Architect/Full Stack Developer. Intersted in Devops.<br>
+**profile:** Solution Architect/Full Stack Developer. Interested in Devops.<br>
 
 ### Software Development Projects
 **Dates:** 03 October 2018 - 7 December 2018<br>
 **Client's Name:** Infocamere<br>
 **Project:** SACE<br>
-**Technologies Used:** JBoss EAP 7.1, Java 8, Maven, Jquery, Spring Boot, Solr<br>
+**Technologies Used:** JBoss EAP 7.1, Java 8, Maven, Rest Easy<br>
 **My tasks in the Project:** Investigating and testing the main processes of the Web Application. Developed Rest Based services, fix bugs, porting of the EAR and WAR to JBoss 7.1 EAP<br>
 
 **Dates:** 15 October 2018 - 7 December 2018<br>
