@@ -5,19 +5,17 @@
 **profile:** Solution Architect/Full Stack Developer. Intersted in Devops.<br>
 
 ### Software Development Projects
-**Dates:** 15 October 2018 - 7 December 2018<br>
-**Client's Name:** Infocamere<br>
-**Project:** GLEIF<br>
-**Technologies Used:** JBoss EAP 7.1, Java 8, Maven, Jquery, Spring Boot, Solr<br>
-**My tasks in the Project:** Define the Solr Collection, the Xpath Data Import Handler in order to create Web Ajax autocomplete functionalities to search GLEIF XML LEI data.<br>
-
-
-**Dates:** 03 October 2018 - 15 November<br>
+**Dates:** 03 October 2018 - 7 December 2018<br>
 **Client's Name:** Infocamere<br>
 **Project:** SACE<br>
 **Technologies Used:** JBoss EAP 7.1, Java 8, Maven, Jquery, Spring Boot, Solr<br>
 **My tasks in the Project:** Investigating and testing the main processes of the Web Application. Developed Rest Based services, fix bugs, porting of the EAR and WAR to JBoss 7.1 EAP<br>
 
+**Dates:** 15 October 2018 - 7 December 2018<br>
+**Client's Name:** Infocamere<br>
+**Project:** GLEIF<br>
+**Technologies Used:** JBoss EAP 7.1, Java 8, Maven, Jquery, Spring Boot, Solr<br>
+**My tasks in the Project:** Define the Solr Collection, the Xpath Data Import Handler in order to create Web Ajax autocomplete functionalities to search GLEIF XML LEI data.<br>
 
 **Dates:** 03 September 2018 - 03 October 2018<br>
 **Client's Name:** Infocamere<br>
@@ -25,7 +23,6 @@
 **Technologies Used:** JBoss EAP 7.1, Java 8, Maven, Ant, RestEasy, EJB 3, Oracle, Git, JPA<br>
 **My tasks in the Project:** For the following site: attidepositati.infocamere.it created by Infocamere I have built several Rest
 based services backed by EJB 3.1 and Oracle and exposed with RestEasy. I was responsible to define the services, the DTO for the comunication with the client and the creation of the JPA entities.<br>
-
 
 **Dates:** 03 September 2018 - Actually<br>
 **Client's Name:** Infocamere<br>
