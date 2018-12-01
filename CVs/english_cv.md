@@ -2,16 +2,26 @@
 **e-mail:** giordano1985@gmail.com<br>
 **date of birth:** 6 January 1985<br>
 **linkedin:** https://www.linkedin.com/in/carlo-giordano-5a94045/<br>
-**profile:** Solution Architect/Developer<br>
+**profile:** Solution Architect/Full Stack Developer. Intersted in Devops.<br>
 
 ### Software Development Projects
-**Dates:** 03 October 2018 - Actually<br>
+**Dates:** 15 October 2018 - 7 December 2018<br>
 **Client's Name:** Infocamere<br>
+**Project:** GLEIF<br>
 **Technologies Used:** JBoss EAP 7.1, Java 8, Maven, Jquery, Spring Boot, Solr<br>
 **My tasks in the Project:** Define the Solr Collection, the Xpath Data Import Handler in order to create Web Ajax autocomplete functionalities to search GLEIF XML LEI data.<br>
 
+
+**Dates:** 03 October 2018 - 15 November<br>
+**Client's Name:** Infocamere<br>
+**Project:** SACE<br>
+**Technologies Used:** JBoss EAP 7.1, Java 8, Maven, Jquery, Spring Boot, Solr<br>
+**My tasks in the Project:** Investigating and testing the main processes of the Web Application. Developed Rest Based services, fix bugs, porting of the EAR and WAR to JBoss 7.1 EAP<br>
+
+
 **Dates:** 03 September 2018 - 03 October 2018<br>
 **Client's Name:** Infocamere<br>
+**Project:** Atti Depositati<br>
 **Technologies Used:** JBoss EAP 7.1, Java 8, Maven, Ant, RestEasy, EJB 3, Oracle, Git, JPA<br>
 **My tasks in the Project:** For the following site: attidepositati.infocamere.it created by Infocamere I have built several Rest
 based services backed by EJB 3.1 and Oracle and exposed with RestEasy. I was responsible to define the services, the DTO for the comunication with the client and the creation of the JPA entities.<br>
@@ -19,6 +29,7 @@ based services backed by EJB 3.1 and Oracle and exposed with RestEasy. I was res
 
 **Dates:** 03 September 2018 - Actually<br>
 **Client's Name:** Infocamere<br>
+**Project:** Parix, Parix Gate Nazionale, Ribi<br>
 **Technologies Used:** JBoss EAP 7.1, Java 8, Maven, Ant, J2ee, EJB 3, Oracle, Git, RestEasy<br>
 **My tasks in the Project:** Porting of legacy applications from Java 1.6 and JBoss 5 to Java 1.8 and JBoss EAP 7.1 for the Italian Chamber of Commerce. Also refactoring some EJB legacy code to RestEasy based web service.<br>
 
