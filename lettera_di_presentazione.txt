@@ -5,6 +5,6 @@ Porgo alla vostra attenzione il mio Curriculum Vitae in risposta all'annuncio co
 La mia esperienza in questo ruolo è incominciata nel Settembre 2005, negli anni ho affinato la mia capacità di costruire e testare soluzioni con linguaggio Java e architetture J2EE nonchè i vari framework correlati per diversi clienti e enti. Ritengo di possedere una spiccata attitudine all'apprendimento di nuove tecnologie, oltre che una comprovata esperienza nel conseguire obiettivi aziendali. Ho maturato capacità che mi permettono di comunicare con referenti tecnici e non. Per me è molto importante saper "giocare di squadra" all'interno di un team e saper organizzare e priorizzare il lavoro. Nel tempo libero cerco sempre di aggiornarmi sui trend tecnologici che possano migliorare il mio lavoro quotidiano.
 Attualmente sto svolgendo due attività in parallelo presso Infocamere: la prima riguarda l'import di dati XML dal sito della GLEIF all'interno del Search Portal Solr per il sito LEI, la seconda riguarda il porting di applicazioni legacy alle ultime versioni di JBoss e Java.
 Lavorare per questa azienda è per me fonte di continui stimoli che mi spronano a migliorarmi, trovo che sia l'ambiente ideale in cui poter lavorare e gestire le responsabilità.
-
+Mi piacerebbe partecipare a tavoli tecnici di definizione applicativi, sistemi e architetture software.
 
 Mi preme sottolineare che sono appassionato del mio lavoro (aggiungi qualcosa)
