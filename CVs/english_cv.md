@@ -5,6 +5,12 @@
 **profile:** Solution Architect/Full Stack Developer. Interested in Devops.<br>
 
 ### Software Development Projects
+**Dates:** 19 December 2018 - Actually<br>
+**Client's Name:** Infocamere<br>
+**Project:** Domicilio Digitale<br>
+**Technologies Used:** JBoss EAP 7.1, Java 8, Oracle, Angular 1.7<br>
+**My tasks in the Project:** ------- placeholder <br>
+
 **Dates:** 03 October 2018 - 7 December 2018<br>
 **Client's Name:** Infocamere<br>
 **Project:** SACE<br>
