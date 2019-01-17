@@ -5,6 +5,12 @@
 **profile:** Solution Architect/Full Stack Developer. Interested in Devops.<br>
 
 ### Software Development Projects
+**Dates:** 14 January 2019 - Actually<br>
+**Client's Name:** Infocamere<br>
+**Project:** Sico - Servizio Investigativo Criminalità Organizzata<br>
+**Technologies Used:** JBoss EAP 7.1, Java 8, Rest Easy, Rest<br>
+**My tasks in the Project:** Main project developer for the services. Provided analysis of the current code EJB and porting as Rest services. <br>
+
 **Dates:** 19 December 2018 - Actually<br>
 **Client's Name:** Infocamere<br>
 **Project:** Domicilio Digitale<br>
