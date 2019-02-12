@@ -5,6 +5,14 @@
 **profile:** Solution Architect/Full Stack Developer. Interested in Devops.<br>
 
 ### Software Development Projects
+**Dates:** 12 February 2019 - Actually<br>
+**Client's Name:** Infocamere<br>
+**Project:** AVEPA - AGENZIA VENETA PER I PAGAMENTI IN AGRICOLTURA<br>
+**Technologies Used:** JBoss EAP 7.1, Java 8, Rest Easy, Rest<br>
+**My tasks in the Project:** TODO: da inserire <br>
+
+
+
 **Dates:** 14 January 2019 - Actually<br>
 **Client's Name:** Infocamere<br>
 **Project:** Sico - Servizio Investigativo Criminalità Organizzata<br>
