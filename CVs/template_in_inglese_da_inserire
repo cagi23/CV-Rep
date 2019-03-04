@@ -27,13 +27,12 @@ Hadoop
 Continuous Deployment (CD)
 TDD
 Microservices
-
+----------------------------------------------------------------------
+You know how to architect all components of a backend project
+You have experience reading API documentation and working with different endpoints to compose the desired effect
+----------------------------------------------------------------------
 VERBS:
-    develop
-
-    design
-
-    code
+    develop,design,code
 
     architect
 
@@ -50,8 +49,6 @@ VERBS:
     engineer
     
     EXAMPLE:
-    
-
     Software Engineer / DevOps (Nov 2016 – Present)
 
     www.virtualstartup.com - a widely used file-sharing service with millions of page impressions per day. I’m part of the core development team.
