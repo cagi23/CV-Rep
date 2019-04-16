@@ -5,13 +5,18 @@
 **profile:** Solution Architect/Full Stack Developer. Interested in Devops.<br>
 
 ### Software Development Projects
-**Dates:** 12 February 2019 - Actually<br>
+
+**Dates:** 08 April 2019 - Actually<br>
+**Client's Name:** Infocamere<br>
+**Project:** RAI<br>
+**Technologies Used:** JBoss EAP 7.1, Java 8, Rest Easy, Rest<br>
+**My tasks in the Project:** TODO: da inserire sviluppo algoritmo generazione CSV dianmico con reflection dato un set di configurazioni simili all'XPATH <br>
+
+**Dates:** 12 February 2019 - 08 April 2019 <br>
 **Client's Name:** Infocamere<br>
 **Project:** AVEPA - AGENZIA VENETA PER I PAGAMENTI IN AGRICOLTURA<br>
 **Technologies Used:** JBoss EAP 7.1, Java 8, Rest Easy, Rest<br>
-**My tasks in the Project:** TODO: da inserire <br>
-
-
+**My tasks in the Project:** TODO: da inserire sviluppo algoritmo tramite creazione node list per controllare le partecipazioni di secondo livello tra piu imprese <br>
 
 **Dates:** 14 January 2019 - Actually<br>
 **Client's Name:** Infocamere<br>
