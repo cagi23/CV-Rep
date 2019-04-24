@@ -2,7 +2,7 @@
 **e-mail:** giordano1985@gmail.com<br>
 **date of birth:** 6 January 1985<br>
 **linkedin:** https://www.linkedin.com/in/carlo-giordano-5a94045/<br>
-**profile:** Solution Architect/Full Stack Developer. Interested in Devops.<br>
+**profile:** Full Stack Developer.
 
 ### Software Development Projects
 
