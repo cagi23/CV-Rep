@@ -198,7 +198,7 @@ based services backed by EJB 3.1 and Oracle and exposed with RestEasy. I was res
 **hacker rank:** https://www.hackerrank.com/giordano1985 <br>
 **code academy:** https://www.codecademy.com/blogPro61171 <br>
 **codeschool:** https://www.codeschool.com/users/904878 <br>
-**dataquest:** https://www.dataquest.io/profile/CarloGiordano <br>
+**Programming Exercise Repository:** https://github.com/carloDev/programming-exercise <br>
 
 ### Professional Certification
 * Oracle Database 11g Administrator Certified Associate
