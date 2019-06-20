@@ -8,8 +8,14 @@
 
 **Dates:** 08 April 2019 - Actually<br>
 **Client's Name:** Infocamere<br>
+**Project:** GEMO<br>
+**Technologies Used:** JBoss EAP 7.1, Java 8, Rest Easy, Rest, Batch<br>
+**My tasks in the Project:** TODO: sviluppo vari gestione monitoraggi(GEMO) per servizi alle imprese e aziende come recupero puntuale di bilanci, interrogazioni per forniture dati ad AIWS<br>
+
+**Dates:** 08 April 2019 - Actually<br>
+**Client's Name:** Infocamere<br>
 **Project:** RAI<br>
-**Technologies Used:** JBoss EAP 7.1, Java 8, Rest Easy, Rest<br>
+**Technologies Used:** JBoss EAP 7.1, Java 8, Rest Easy, Rest, Batch<br>
 **My tasks in the Project:** TODO: da inserire sviluppo algoritmo generazione CSV dianmico con reflection dato un set di configurazioni simili all'XPATH <br>
 
 **Dates:** 12 February 2019 - 08 April 2019 <br>
