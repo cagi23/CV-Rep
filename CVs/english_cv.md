@@ -10,7 +10,7 @@
 **Client's Name:** Infocamere<br>
 **Project:** GEMO<br>
 **Technologies Used:** JBoss EAP 7.1, Java 8, Rest Easy, Rest, Batch<br>
-**My tasks in the Project:** TODO: sviluppo vari gestione monitoraggi(GEMO) per servizi alle imprese e aziende come recupero puntuale di bilanci, interrogazioni per forniture dati ad AIWS<br>
+**My tasks in the Project:** TODO: sviluppo vari gestione monitoraggi(GEMO) e gestione variazioni per servizi alle imprese e aziende come recupero puntuale di bilanci, interrogazioni per forniture dati ad AIWS<br>
 
 **Dates:** 08 April 2019 - Actually<br>
 **Client's Name:** Infocamere<br>
