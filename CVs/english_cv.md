@@ -10,19 +10,19 @@
 **Client's Name:** Infocamere<br>
 **Project:** GEMO<br>
 **Technologies Used:** JBoss EAP 7.1, Java 8, Rest Easy, Rest, Batch<br>
-**My tasks in the Project:** TODO: sviluppo vari gestione monitoraggi(GEMO) e gestione variazioni per servizi alle imprese e aziende come recupero puntuale di bilanci, interrogazioni per forniture dati ad AIWS<br>
+**My tasks in the Project:** Coding the main architecture of the SOAP services and Java Batch.<br>
 
 **Dates:** 08 April 2019 - Actually<br>
 **Client's Name:** Infocamere<br>
 **Project:** RAI<br>
 **Technologies Used:** JBoss EAP 7.1, Java 8, Rest Easy, Rest, Batch<br>
-**My tasks in the Project:** TODO: da inserire sviluppo algoritmo generazione CSV dianmico con reflection dato un set di configurazioni simili all'XPATH <br>
+**My tasks in the Project:** Coding the main algorithms for CSV production.<br>
 
 **Dates:** 12 February 2019 - 08 April 2019 <br>
 **Client's Name:** Infocamere<br>
 **Project:** AVEPA - AGENZIA VENETA PER I PAGAMENTI IN AGRICOLTURA<br>
 **Technologies Used:** JBoss EAP 7.1, Java 8, Rest Easy, Rest<br>
-**My tasks in the Project:** TODO: da inserire sviluppo algoritmo tramite creazione node list per controllare le partecipazioni di secondo livello tra piu imprese <br>
+**My tasks in the Project:** Coding the recursion algorithm for checking mutual partecipations between company.<br>
 
 **Dates:** 14 January 2019 - Actually<br>
 **Client's Name:** Infocamere<br>
@@ -34,7 +34,7 @@
 **Client's Name:** Infocamere<br>
 **Project:** Domicilio Digitale<br>
 **Technologies Used:** JBoss EAP 7.1, Java 8, Oracle, Angular 1.7<br>
-**My tasks in the Project:** ------- placeholder <br>
+**My tasks in the Project:** Coding the Javascript glue code for integration Backend and Frontend<br>
 
 **Dates:** 03 October 2018 - 7 December 2018<br>
 **Client's Name:** Infocamere<br>
