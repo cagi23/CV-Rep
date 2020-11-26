@@ -1,0 +1,18 @@
+PERSONAL SKILLS
+
+Self-starter with drive and ability to achieve planned objectives.
+Ability to work in a fast-paced, multi-tasking environment as a team player.
+Creative, organized, strong time-management.
+Well-developed interpersonal skills to create a positive interaction with people at all levels.
+
+
+KEY RESPONSIBILITIES
+
+
+- Design and build Java* applications in collaboration with design and Product development teams.
+- Collaborate with cross-functional teams to define, design, and ship new features
+- Work with outside data sources and APIs to guarantee data integration and seamless experience in training with premium devices.
+- Continuously discover, evaluate and implement new technologies to maximize development efficiency
+- Work on bug fixing and improving application performance for user experiences.
+- Design and maintain shared application plugins and proprietary frameworks to increase the modularity and testability of our software solutions. 
+- Unit-test code for robustness, including edge cases, usability, and general reliability
