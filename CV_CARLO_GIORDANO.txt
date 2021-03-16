@@ -4,5 +4,7 @@ AGCOM
 bando edicolanti consiglio dei ministri
 SICO - guarda di finanza
 SACE - porting
-GEMO-E : 
+GEMO-E : polizia di stato, MBACT
+
+Tecnologie: Spring Rest, JPA, 
 
