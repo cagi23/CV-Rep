@@ -2,11 +2,15 @@ Clienti: AVEPA , csv diagonale
 INPS: batch gestione lotti e visure custom massive
 AGCOM:
 Puglia Sviluppo
-Bando Edicolanti consiglio dei ministri: settembre - novembre 2020
+
 SICO - guarda di finanza
 SACE - porting
 GEMO-E : polizia di stato, MBACT
 descrizione GEMO-E: visure custom composto da più componenti SOAP, batch e Rest
 
+---------------------------------------------
+Bando Edicolanti Backoffice generalizzato
+consiglio dei ministri: settembre - novembre 2020
 Tecnologie: Spring Rest, JPA, Tymeleaf
+---------------------------------------------
 
