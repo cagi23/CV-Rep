@@ -1,7 +1,8 @@
-clienti: AVEPA , csv diagonale
+Clienti: AVEPA , csv diagonale
 INPS
 AGCOM
 bando edicolanti consiglio dei ministri
 SICO - guarda di finanza
-
+SACE - porting
+GEMO-E : 
 
