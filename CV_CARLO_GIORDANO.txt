@@ -1,6 +1,7 @@
 Clienti: AVEPA , csv diagonale
-INPS
-AGCOM
+INPS: batch gestione lotti e visure custom massive
+AGCOM:
+Puglia Sviluppo
 Bando Edicolanti consiglio dei ministri: settembre - novembre 2020
 SICO - guarda di finanza
 SACE - porting
