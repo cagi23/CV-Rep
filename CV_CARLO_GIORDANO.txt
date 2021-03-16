@@ -1,10 +1,11 @@
 Clienti: AVEPA , csv diagonale
 INPS
 AGCOM
-bando edicolanti consiglio dei ministri
+Bando edicolanti consiglio dei ministri
 SICO - guarda di finanza
 SACE - porting
 GEMO-E : polizia di stato, MBACT
+descrizione GEMO-E: visure custom composto da più componenti SOAP, batch e Rest
 
-Tecnologie: Spring Rest, JPA, 
+Tecnologie: Spring Rest, JPA, Tymeleaf
 
