@@ -1,3 +1,11 @@
+Angular Formly Bandi Sportello Contributi
+Regione Sicialia
+MIBACT
+Regione Trento
+
+descrizione attività:definizione architettura e configurazione tramite Formly dei bandi di richiesta contributi secondo normative e caratteristiche delle imprese
+Data:
+-----------------------------------------------------------
 GEPS-J: portale pubblica amministrazione
 Clienti: AVEPA
 INPS: batch gestione lotti e visure custom massive
