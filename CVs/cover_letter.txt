@@ -9,7 +9,12 @@ and this is my portfolio: http://carlo-giordano-portfolio.surge.sh/ (work in pro
 I'm a goal oriented person who loves learn new technologies/methodologies. I'm also inclined to solve complex problem.
 
 ------------------------------------------------------------------------------------------------------------------------
-Test-Drive high-quality, self-documenting code using Pair Programming Practices, Agile Principles, Clean Code Techniques, SOLID and other software design principles. Refactor older code as you work on it to reduce the Team’s overall value capacity backlog. Create intuitive user interfaces through front- and back-end design. Create and maintain minimal documentation. Necessary Skills:
+Test-Drive high-quality, self-documenting code using Pair Programming Practices, Agile Principles, 
+Clean Code Techniques, SOLID and other software design principles. 
+Refactor older code as you work on it to reduce the Team’s overall value capacity backlog. 
+Create intuitive user interfaces through front- and back-end design. Create and maintain minimal documentation. 
+
+Necessary Skills:
 
 Strong OOP design and coding skills. Experienced in full-stack development. Excellent communication skills with a passion for face-to-face over written communication. Excel in a fast-paced, results-oriented environment. Thrive in a highly cooperative work setting. Preferred Qualifications:
 
