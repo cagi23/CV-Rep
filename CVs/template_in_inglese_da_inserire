@@ -1,33 +1,3 @@
-KEYWORDS:
-
-Unit testing
-Continuous Integration (CI)
-Web services
-GitHub
-REST
-Agile
-Deployment
-Security
-API
-Scalability
-OOP
-Availability
-Docker
-SOLID
-NoSQL
-Configuration Management (CM)
-Robust
-Tuning
-Algorithm
-Networking
-Design Patterns
-Open Source
-AWS
-Hadoop
-Continuous Deployment (CD)
-TDD
-Microservices
-----------------------------------------------------------------------
 You know how to architect all components of a backend project
 You have experience reading API documentation and working with different endpoints to compose the desired effect
 ----------------------------------------------------------------------
@@ -59,3 +29,33 @@ VERBS:
         Increased speed of software development life cycle by 40%.
 
     (Java, Python, Bash, AWS, Kubernetes, Docker, Puppet, Chef, Ansible, Jenkins)
+-------------------------------------------------------------------------------------------------------------
+KEYWORDS:
+
+Unit testing
+Continuous Integration (CI)
+Web services
+GitHub
+REST
+Agile
+Deployment
+Security
+API
+Scalability
+OOP
+Availability
+Docker
+SOLID
+NoSQL
+Configuration Management (CM)
+Robust
+Tuning
+Algorithm
+Networking
+Design Patterns
+Open Source
+AWS
+Hadoop
+Continuous Deployment (CD)
+TDD
+Microservices
