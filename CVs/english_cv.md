@@ -4,6 +4,13 @@
 **linkedin:** https://www.linkedin.com/in/carlo-giordano-5a94045/<br>
 **profile:** Full Stack Developer.
 
+### Background
+I'm a full-stack developer that has been working with a large variety of companies from startup to big corporations since 2006.
+Self-starter with drive and ability to achieve planned objectives.
+Ability to work in a fast-paced, multi-tasking environment as a team player.
+Creative, organized, strong time-management.
+Well-developed interpersonal skills to create a positive interaction with people at all levels.
+
 ### Software Development Projects
 
 **Dates:** 01 March 2021 - Actually<br>
