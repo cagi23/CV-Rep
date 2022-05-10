@@ -5,11 +5,11 @@
 **profile:** Full Stack Developer.
 
 ### Background
-I'm a full-stack developer that has been working with a large variety of companies from startup to big corporations since 2006.
-Self-starter with drive and ability to achieve planned objectives.
-Ability to work in a fast-paced, multi-tasking environment as a team player.
-Creative, organized, strong time-management.
-Well-developed interpersonal skills to create a positive interaction with people at all levels.
+I'm a full-stack developer that has been working with a large variety of companies from startup to big corporations since 2006.<br>
+Self-starter with drive and ability to achieve planned objectives.<br>
+Ability to work in a fast-paced, multi-tasking environment as a team player.<br>
+Creative, organized, strong time-management.<br>
+Well-developed interpersonal skills to create a positive interaction with people at all levels.<br>
 
 ### Software Development Projects
 
