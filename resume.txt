@@ -1,0 +1,9 @@
+As a skilled software developer with a passion for mobile application development using the Flutter framework, I possess a solid understanding of key Flutter concepts, including widgets, and state management, architectures, and lots more. With proficiency in Dart programming language, I'm committed to delivering exceptional results in professional roles and staying current with the latest technologies to continuously improve my skills.
+
+My experience with integration of Flutter apps with backend APIs and databases has given me a comprehensive understanding of system architecture and how to build scalable, maintainable applications. I'm also proficient in Agile development methodologies and experienced in working on cross-functional teams.
+
+What sets me apart is my meticulous attention to detail, which enables me to deliver the features the way they ought to work. I also try my best to convey technical concepts to both technical and non-technical audiences. Additionally, I am dedicated to developing user-friendly and visually appealing mobile applications within the constraints of time and budget.
+
+Outside of work, I am an active volunteer for organizations like YALI (Young African Leaders Initiative) and participate in tech communities such as Enyata, Prembly, Sendchamp, and Devcareer. Giving back to the community is my passion, and I enjoy writing about tips to help individuals better understand the tools they work with and be more efficient using them. In my spare time, I also enjoy playing the piano and continuously learning new pieces.
+
+My technical skills include proficiency in Flutter, Dart, and JavaScript, as well as experience with a couple of state management, and best practices in Flutter. I'm always excited to learn new skills and programming languages, and continuously improve my knowledge and expertise in the ever-evolving field of mobile application development.
